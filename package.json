@@ -22,7 +22,7 @@
     "routePrefix": ""
   },
   "scripts": {
-    "build": "bower install && grunt compile",
+    "build": "bower install --force && grunt compile",
     "watch": "grunt"
   },
   "dependencies": {},
